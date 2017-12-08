@@ -32,5 +32,8 @@
 * Bernardo Rosa
 * Esaú Mascarenhas
 * Resemblinck Freitas
+* Vítor Vaz Andrade
 * Diogo Lima
 * Antonio Raian
+* Eduardo Mendes
+
